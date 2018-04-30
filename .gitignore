@@ -51,3 +51,4 @@ Temporary Items
 *.prefs
 target
 asynch-service.iml
+.idea/

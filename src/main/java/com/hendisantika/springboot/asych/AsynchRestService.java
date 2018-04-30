@@ -1,4 +1,4 @@
-package pl.spiralarchitect.springboot.asych;
+package com.hendisantika.springboot.asych;
 
 import java.util.concurrent.Callable;
 

@@ -8,7 +8,7 @@ import org.springframework.util.concurrent.ListenableFuture;
 import org.springframework.util.concurrent.ListenableFutureCallback;
 import org.springframework.web.client.AsyncRestTemplate;
 
-import pl.spiralarchitect.springboot.asych.TaskRequest;
+import com.hendisantika.springboot.asych.TaskRequest;
 
 public class TaskClient {
 	
