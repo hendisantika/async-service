@@ -1,4 +1,4 @@
-package com.hendisantika.springboot.asych;
+package com.hendisantika.springboot.async;
 
 import java.util.concurrent.Callable;
 
